@@ -41,8 +41,9 @@ The `Data` class is a simple custom class with two properties:
 
 ## Example Output
 
-Tuple - Number: 42, Text: Hello, World!
-Named Tuple - Number: 42, Text: Hello, World!
-Custom Class - Number: 42, Text: Hello, World!
-Out Parameters - Number: 42, Text: Hello, World!
-ValueTuple - Number: 42, Text: Hello, World!
+- **Tuple** - Number: 42, Text: Hello, World!
+- **Named Tuple** - Number: 42, Text: Hello, World!
+- **Custom Class** - Number: 42, Text: Hello, World!
+- **Out Parameters** - Number: 42, Text: Hello, World!
+- **ValueTuple** - Number: 42, Text: Hello, World!
+
